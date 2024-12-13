@@ -1,0 +1,8 @@
+**/bin
+**/obj
+**/appsettings.*.json
+**/.vs
+**/Properties
+**/*.user
+**/wwwroot
+**/node_modules
