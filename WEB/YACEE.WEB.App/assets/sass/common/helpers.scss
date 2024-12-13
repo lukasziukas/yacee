@@ -1,0 +1,7 @@
+@mixin bottom-divider($bs-color){
+    box-shadow: 0 5px 5px $bs-color;
+}
+
+@mixin right-divider($bs-color){
+    box-shadow: 1px 0 4px $bs-color;
+}
